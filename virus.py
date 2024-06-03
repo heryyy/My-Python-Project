@@ -3,7 +3,7 @@ import turtle
 a = 0
 b = 0
 
-turtle.bgcolor("black")
+turtle.bgcolor("white")
 turtle.speed(0)
 turtle.pencolor("green")
 turtle.penup()
